@@ -5,6 +5,7 @@
 | Ram | 8 GB|   
 | CPU cores | 4 |   
 | Video Memory | 128 MB|   
-This does not come pre activated you will need to bring you own key for full use
+
+This does not come pre activated you will need to bring you own key for full use   
 I used qcow for compatibility with other vm apps
 
