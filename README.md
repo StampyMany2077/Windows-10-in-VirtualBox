@@ -7,5 +7,5 @@
 | Video Memory | 128 MB|   
 
 This does not come pre activated you will need to bring you own key for full use   
-I used qcow for compatibility with other vm apps
+I used .qcow for the virtual hard drive for compatibility with other vm apps
 
