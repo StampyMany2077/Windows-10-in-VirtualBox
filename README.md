@@ -8,7 +8,7 @@
 
 This does not come pre activated you will need to bring you own key for full use   
 I used .qcow for the virtual hard drive for compatibility with other vm apps   
-default login credentals   
+Default login credentals   
 Username: User   
 Password: 1234   
 
